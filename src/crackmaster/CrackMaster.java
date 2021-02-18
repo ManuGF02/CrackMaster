@@ -10,9 +10,9 @@ package crackmaster;
  * @author Diurno
  */
 public class CrackMaster {
-    private static final int PUTO = 2;
+    private static final int ADS = 2;
     private int edadManuel = 18; 
-    private String aids = "Github es un bro momento";
+    private String add = "Github es un bro momento";
 
 
 public int getEdadManuel()
@@ -22,11 +22,11 @@ public int getEdadManuel()
 
 public int getPuto()
 {
-    return PUTO;
+    return ADS;
 }
 
 public String xd()
 {
-    return aids;
+    return add;
 }
 }
