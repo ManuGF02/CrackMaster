@@ -10,12 +10,23 @@ package crackmaster;
  * @author Diurno
  */
 public class CrackMaster {
+    private static final int PUTO = 2;
+    private int edadManuel = 18; 
+    private String aids = "Github es un bro momento";
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
-    
+
+public int getEdadManuel()
+{
+    return edadManuel;
+}
+
+public int getPuto()
+{
+    return PUTO;
+}
+
+public String xd()
+{
+    return aids;
+}
 }
