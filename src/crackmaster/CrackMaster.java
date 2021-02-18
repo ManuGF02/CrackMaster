@@ -16,37 +16,37 @@ public class CrackMaster {
     private String add = "Github es un bro momento";
     private String aids = "Github es un bro momento";
     private boolean bryanEsUnMaster = true;
-    private float miAltura = 1.82;
+    private double miAltura = 1.82;
+    private int fourtytwo = 42;
+
+    public int getEdadManuel() 
     
-    public int getEdadManuel() {
-    public int getEdadManuel()
     {
         return edadManuel;
     }
 
-<<<<<<< HEAD
-    public int getPuto() {
-=======
+
+    
+
     public int getPuto()
     {
->>>>>>> master
-        return PUTO;
-    }
 
-<<<<<<< HEAD
-    public int getPuto() {
         return ADS;
     }
+
+
+    
 
     public String xd() {
         return add;
     }
 
+<<<<<<< Upstream, based on origin/master
     public String xd() {
 =======
     public String xd()
     {
->>>>>>> master
+>>>>>>> c6a50a1 aids 3
         return aids;
     }
     
@@ -54,4 +54,7 @@ public class CrackMaster {
     {
       return "Hola Wenas";  
     }
-}
+=======
+    
+
+    
