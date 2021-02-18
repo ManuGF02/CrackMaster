@@ -19,13 +19,21 @@ public class CrackMaster {
     private float miAltura = 1.82;
 
     public int getEdadManuel() {
+    public int getEdadManuel()
+    {
         return edadManuel;
     }
 
+<<<<<<< HEAD
     public int getPuto() {
+=======
+    public int getPuto()
+    {
+>>>>>>> master
         return PUTO;
     }
 
+<<<<<<< HEAD
     public int getPuto() {
         return ADS;
     }
@@ -35,6 +43,10 @@ public class CrackMaster {
     }
 
     public String xd() {
+=======
+    public String xd()
+    {
+>>>>>>> master
         return aids;
     }
 }
