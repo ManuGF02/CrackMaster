@@ -17,7 +17,7 @@ public class CrackMaster {
     private String aids = "Github es un bro momento";
     private boolean bryanEsUnMaster = true;
     private float miAltura = 1.82;
-
+    
     public int getEdadManuel() {
     public int getEdadManuel()
     {
@@ -48,5 +48,10 @@ public class CrackMaster {
     {
 >>>>>>> master
         return aids;
+    }
+    
+    public String holaWenas()
+    {
+      return "Hola Wenas";  
     }
 }
